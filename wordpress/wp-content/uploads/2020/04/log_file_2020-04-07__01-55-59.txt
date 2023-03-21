@@ -1,0 +1,87 @@
+
+---Downloaded files---
+The import files for: Import WP Commerce Demo were successfully downloaded!
+Initial max execution time = 36000
+Files info:
+Site URL = http://127.0.0.1:8888/yassine/wordpress
+Data file = C:\laragon\www\yassine\wordpress/wp-content/themes/wp-commerce/inc/demo/contents.xml
+Widget file = C:\laragon\www\yassine\wordpress/wp-content/themes/wp-commerce/inc/demo/widgets.wie
+Customizer file = C:\laragon\www\yassine\wordpress/wp-content/themes/wp-commerce/inc/demo/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+Product Categories - Product categories - Imported
+Filter Products by Price - Filter by price - Imported
+
+Frontpage Feature Products Section : 
+
+WP Commerce: Featured Products - No Title - Imported
+
+Frontpage News Arrivals Section : 
+
+WP Commerce: New Arrival Products - No Title - Imported
+
+Frontpage Hot Products Section : 
+
+WP Commerce: Hot Products - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
