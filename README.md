@@ -16,6 +16,22 @@ This is a WordPress WooCommerce website that I created as part of my auto-learni
 - **Contact Forms**: I used Contact Form 7 and WPForms plugins to create custom contact forms that allow customers to reach out with inquiries or feedback.
 - **Responsive Design**: The website is designed to be fully responsive and optimized for all devices including desktop, tablet and mobile.
 
+# Installation and Setup
+To install and run this website on your local machine, follow these steps:
+
+1. Clone this repository to your local machine using the following command:
+```
+git clone https://github.com/feriel214/wooCommerce.git
+
+```
+2. Install WordPress on your local machine and set up a new database.
+3. Copy the contents of this repository to your WordPress installation directory.
+4. Install the required plugins - WooCommerce, Contact Form 7, WPForms.
+
+5. Customize the website to meet your specific needs.
+# Contributing
+If you find any issues or bugs with the website, please feel free to submit a pull request or open an issue.
+
 # Screenshots
 **Homepage**
 <div class="gallery">
@@ -39,23 +55,6 @@ This is a WordPress WooCommerce website that I created as part of my auto-learni
 <div class="gallery">
     <img src="https://github.com/feriel214/wooCommerce/blob/main/assets/7.PNG" alt="home_page" >
 </div>
-
-# Installation and Setup
-To install and run this website on your local machine, follow these steps:
-
-1. Clone this repository to your local machine using the following command:
-```
-git clone https://github.com/feriel214/wooCommerce.git
-
-```
-
-2. Install WordPress on your local machine and set up a new database.
-3. Copy the contents of this repository to your WordPress installation directory.
-4. Install the required plugins - WooCommerce, Contact Form 7, WPForms.
-
-5. Customize the website to meet your specific needs.
-# Contributing
-If you find any issues or bugs with the website, please feel free to submit a pull request or open an issue.
 
 # ✨ Let’s Connect and Build Something Amazing Together
 <a href="https://www.linkedin.com/in/feriel-zarrouki-1ba917186/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Feriel Zarrouki | LinkedIn" width="21px"/></a>
