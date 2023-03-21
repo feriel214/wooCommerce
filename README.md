@@ -57,5 +57,5 @@ git clone https://github.com/feriel214/wooCommerce.git
 # Contributing
 If you find any issues or bugs with the website, please feel free to submit a pull request or open an issue.
 
-#  Let’s Connect and Build Something Amazing Together
+# ✨ Let’s Connect and Build Something Amazing Together
 <a href="https://www.linkedin.com/in/feriel-zarrouki-1ba917186/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Feriel Zarrouki | LinkedIn" width="21px"/></a>
